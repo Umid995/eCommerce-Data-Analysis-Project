@@ -1,6 +1,6 @@
 # eCommerce Data Analysis Project
 
-As an eCommerce Data Analyst for retailer company which has just launched their first product. Following the growing path of the company, analyze and optimize marketing channels, measure and test website conversion performance.
+As an eCommerce Data Analyst for retailer company which has just launched their first product.For following the growing path of the company, need to analyze and optimize marketing channels, measure and test website conversion performance.
 
 **Traffic source analysis** 
 [this sql file answers queries below](https://github.com/Umid995/eCommerce-Data-Analyst-Project/blob/main/Traffic_source_analysis.sql)

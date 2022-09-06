@@ -5,6 +5,7 @@ As an eCommerce Data Analyst for retailer company which has just launched their 
 ## Traffic Source and Website Performance Analysis
 
 **Traffic source analysis** 
+
 This file answers the queries below [Traffic_source_analysis.sql](https://github.com/Umid995/eCommerce-Data-Analyst-Project/blob/main/Traffic_source_analysis.sql)
 
 1 Where the bulk of website sessions coming
@@ -26,8 +27,9 @@ This file answers the queries below [Traffic_source_analysis.sql](https://github
   Can use 2012-04-15 untill bid change as a baseline
   date 2012-06-09
   
-  **Website performance analysis** 
-  This file answers the queries below[Website_performance_analysis.sql](https://github.com/Umid995/eCommerce-Data-Analyst-     Project/blob/main/Website_performance_analysis.sql)
+**Website performance analysis** 
+
+This file answers the queries below[Website_performance_analysis.sql](https://github.com/Umid995/eCommerce-Data-Analyst-Project/blob/main/Website_performance_analysis.sql)
   
 1 Pull most viewed website pages, ranked by session volume
   date 2012-06-09
@@ -52,10 +54,10 @@ This file answers the queries below [Traffic_source_analysis.sql](https://github
 ### Data 
 data used in this project provided by Maven Analytics
 
-#### Run
+### Run
  first run preparing_workbench_2022.sql scripte to update properties of server.
  second unzip create_mavenfuzzyfactory.sql.zip file and sql script on mysql it will create data base mavenfuzzyfactory.
  third use the sql files to make traffic source and website performance analysis.
  
-##### Requirements
+#### Requirements
 mysql workbench
